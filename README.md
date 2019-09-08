@@ -2,7 +2,7 @@
 
 Should work with Python 3.6, fast.ai 1.0 on armv6 (tested) or armv7 (not tested).
 
-I didn't manage to build a working wheel for `spacy` - however it's only required for the fastai text package - vision works fine without it.
+> **NOTE**: I didn't manage to build a working wheel for `spacy` - however it's only required for the fastai text package - vision works fine without it.
 
 These have been tested on a **Raspberry Pi Zero W, running Raspbian Buster and Berryconda 3.2**.
 
